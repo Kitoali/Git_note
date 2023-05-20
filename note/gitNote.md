@@ -30,6 +30,9 @@ git 提交后都有记录，只要别把log文件删了
 	b. 要想回到未来，需要使用git reflog进行历史操作查看，得到最新的commit id；
 	c. 在写回退指令的时候commit id可以不用写全，git自动识别，但是也不能写太少，至少需要写前4位字符；
 
+## 分支操作以及冲突解决
+![image](https://github.com/Kitoali/Git_note/assets/54657765/efde1292-c81c-4f8d-ba58-2908789bdd70)
+
 
 
 
