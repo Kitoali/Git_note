@@ -12,7 +12,8 @@ alias ll = 'ls -al'
 ### 文件的提交 
  ![image](https://github.com/Kitoali/Git_note/assets/54657765/062b1323-a89e-48d4-abf4-bcce96635f59)
 
- 通配符提交的方式忽略部分类型，或某个的文件的方法，一般通过复制.gitignore文件到仓库即可无需手写
+###通配符提交的方式忽略部分类型，或某个的文件的方法，一般通过复制.gitignore文件到仓库即可无需手写
+ 
 ![image](https://github.com/Kitoali/Git_note/assets/54657765/272822a4-1543-47d8-b9f2-5d43b5ada4b7)
 ![image](https://github.com/Kitoali/Git_note/assets/54657765/5ebfafa1-b2f4-4864-873c-4798bbea1377)
 
