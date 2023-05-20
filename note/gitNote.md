@@ -2,6 +2,7 @@
 代码的备份，回滚，协同开发，追溯
 
 ## .bashrc 配置快捷键
+touch ~/.bashrc #创建bashrc文件
 #输出git提交日志
 alias git-log='git log --pretty=oneline --all --graph --abbrev-commit'
 #查找当前文件夹所有文件快捷键
